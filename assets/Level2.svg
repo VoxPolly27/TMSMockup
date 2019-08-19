@@ -1,0 +1,435 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="402" height="700" viewBox="0 0 402 700">
+  <defs>
+    <clipPath id="clip-path">
+      <rect width="80" height="700" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <rect width="70" height="100" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-9">
+      <rect width="80" height="500" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-15">
+      <rect width="244" height="69" fill="none"/>
+    </clipPath>
+    <linearGradient id="linear-gradient" x1="0.207" y1="1.155" x2="0.793" y2="-0.155" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#f2f2f2"/>
+      <stop offset="0.516" stop-color="#b3b3b3"/>
+      <stop offset="1" stop-color="#f2f2f2"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-3" x1="0.208" y1="1.155" x2="0.793" y2="-0.155" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#f2f2f2"/>
+      <stop offset="0.52" stop-color="#b3b3b3"/>
+      <stop offset="1" stop-color="#f2f2f2"/>
+    </linearGradient>
+  </defs>
+  <g id="Level2" transform="translate(-198 -214)">
+    <g id="Repeat_Grid_1" data-name="Repeat Grid 1" transform="translate(198 214)" clip-path="url(#clip-path)">
+      <g transform="translate(-198 -214)">
+        <g id="trackVertical" transform="translate(202.948 214)" clip-path="url(#clip-path-2)">
+          <g id="trackVertical-2" data-name="trackVertical" transform="translate(-4.948 -16)">
+            <g id="Group_90" data-name="Group 90" transform="translate(4.948 16)">
+              <g id="Group_88" data-name="Group 88" transform="translate(0 0)">
+                <rect id="Rectangle_16" data-name="Rectangle 16" width="100" height="4.291" transform="translate(4.291) rotate(90)" fill="#383838"/>
+              </g>
+              <g id="Group_89" data-name="Group 89" transform="translate(65.709 0)">
+                <rect id="Rectangle_17" data-name="Rectangle 17" width="100" height="4.291" transform="translate(0 100) rotate(-90)" fill="#383838"/>
+              </g>
+            </g>
+          </g>
+        </g>
+        <g id="track" transform="translate(80.5 184.987)">
+          <rect id="trackBottom" width="80" height="4.291" transform="translate(117.5 99.592)" fill="#383838"/>
+          <rect id="trackTop" width="80" height="4.291" transform="translate(197.5 58.174) rotate(180)" fill="#383838"/>
+        </g>
+      </g>
+      <g transform="translate(-198 -114)">
+        <g id="trackVertical-3" data-name="trackVertical" transform="translate(202.948 214)" clip-path="url(#clip-path-2)">
+          <g id="trackVertical-4" data-name="trackVertical" transform="translate(-4.948 -16)">
+            <g id="Group_90-2" data-name="Group 90" transform="translate(4.948 16)">
+              <g id="Group_88-2" data-name="Group 88" transform="translate(0 0)">
+                <rect id="Rectangle_16-2" data-name="Rectangle 16" width="100" height="4.291" transform="translate(4.291) rotate(90)" fill="#383838"/>
+              </g>
+              <g id="Group_89-2" data-name="Group 89" transform="translate(65.709 0)">
+                <rect id="Rectangle_17-2" data-name="Rectangle 17" width="100" height="4.291" transform="translate(0 100) rotate(-90)" fill="#383838"/>
+              </g>
+            </g>
+          </g>
+        </g>
+        <g id="track-2" data-name="track" transform="translate(80.5 184.987)">
+          <rect id="trackBottom-2" data-name="trackBottom" width="80" height="4.291" transform="translate(117.5 99.592)" fill="#383838"/>
+          <rect id="trackTop-2" data-name="trackTop" width="80" height="4.291" transform="translate(197.5 58.174) rotate(180)" fill="#383838"/>
+        </g>
+      </g>
+      <g transform="translate(-198 -14)">
+        <g id="trackVertical-5" data-name="trackVertical" transform="translate(202.948 214)" clip-path="url(#clip-path-2)">
+          <g id="trackVertical-6" data-name="trackVertical" transform="translate(-4.948 -16)">
+            <g id="Group_90-3" data-name="Group 90" transform="translate(4.948 16)">
+              <g id="Group_88-3" data-name="Group 88" transform="translate(0 0)">
+                <rect id="Rectangle_16-3" data-name="Rectangle 16" width="100" height="4.291" transform="translate(4.291) rotate(90)" fill="#383838"/>
+              </g>
+              <g id="Group_89-3" data-name="Group 89" transform="translate(65.709 0)">
+                <rect id="Rectangle_17-3" data-name="Rectangle 17" width="100" height="4.291" transform="translate(0 100) rotate(-90)" fill="#383838"/>
+              </g>
+            </g>
+          </g>
+        </g>
+        <g id="track-3" data-name="track" transform="translate(80.5 184.987)">
+          <rect id="trackBottom-3" data-name="trackBottom" width="80" height="4.291" transform="translate(117.5 99.592)" fill="#383838"/>
+          <rect id="trackTop-3" data-name="trackTop" width="80" height="4.291" transform="translate(197.5 58.174) rotate(180)" fill="#383838"/>
+        </g>
+      </g>
+      <g transform="translate(-198 86)">
+        <g id="trackVertical-7" data-name="trackVertical" transform="translate(202.948 214)" clip-path="url(#clip-path-2)">
+          <g id="trackVertical-8" data-name="trackVertical" transform="translate(-4.948 -16)">
+            <g id="Group_90-4" data-name="Group 90" transform="translate(4.948 16)">
+              <g id="Group_88-4" data-name="Group 88" transform="translate(0 0)">
+                <rect id="Rectangle_16-4" data-name="Rectangle 16" width="100" height="4.291" transform="translate(4.291) rotate(90)" fill="#383838"/>
+              </g>
+              <g id="Group_89-4" data-name="Group 89" transform="translate(65.709 0)">
+                <rect id="Rectangle_17-4" data-name="Rectangle 17" width="100" height="4.291" transform="translate(0 100) rotate(-90)" fill="#383838"/>
+              </g>
+            </g>
+          </g>
+        </g>
+        <g id="track-4" data-name="track" transform="translate(80.5 184.987)">
+          <rect id="trackBottom-4" data-name="trackBottom" width="80" height="4.291" transform="translate(117.5 99.592)" fill="#383838"/>
+          <rect id="trackTop-4" data-name="trackTop" width="80" height="4.291" transform="translate(197.5 58.174) rotate(180)" fill="#383838"/>
+        </g>
+      </g>
+      <g transform="translate(-198 186)">
+        <g id="trackVertical-9" data-name="trackVertical" transform="translate(202.948 214)" clip-path="url(#clip-path-2)">
+          <g id="trackVertical-10" data-name="trackVertical" transform="translate(-4.948 -16)">
+            <g id="Group_90-5" data-name="Group 90" transform="translate(4.948 16)">
+              <g id="Group_88-5" data-name="Group 88" transform="translate(0 0)">
+                <rect id="Rectangle_16-5" data-name="Rectangle 16" width="100" height="4.291" transform="translate(4.291) rotate(90)" fill="#383838"/>
+              </g>
+              <g id="Group_89-5" data-name="Group 89" transform="translate(65.709 0)">
+                <rect id="Rectangle_17-5" data-name="Rectangle 17" width="100" height="4.291" transform="translate(0 100) rotate(-90)" fill="#383838"/>
+              </g>
+            </g>
+          </g>
+        </g>
+        <g id="track-5" data-name="track" transform="translate(80.5 184.987)">
+          <rect id="trackBottom-5" data-name="trackBottom" width="80" height="4.291" transform="translate(117.5 99.592)" fill="#383838"/>
+          <rect id="trackTop-5" data-name="trackTop" width="80" height="4.291" transform="translate(197.5 58.174) rotate(180)" fill="#383838"/>
+        </g>
+      </g>
+      <g transform="translate(-198 286)">
+        <g id="trackVertical-11" data-name="trackVertical" transform="translate(202.948 214)" clip-path="url(#clip-path-2)">
+          <g id="trackVertical-12" data-name="trackVertical" transform="translate(-4.948 -16)">
+            <g id="Group_90-6" data-name="Group 90" transform="translate(4.948 16)">
+              <g id="Group_88-6" data-name="Group 88" transform="translate(0 0)">
+                <rect id="Rectangle_16-6" data-name="Rectangle 16" width="100" height="4.291" transform="translate(4.291) rotate(90)" fill="#383838"/>
+              </g>
+              <g id="Group_89-6" data-name="Group 89" transform="translate(65.709 0)">
+                <rect id="Rectangle_17-6" data-name="Rectangle 17" width="100" height="4.291" transform="translate(0 100) rotate(-90)" fill="#383838"/>
+              </g>
+            </g>
+          </g>
+        </g>
+        <g id="track-6" data-name="track" transform="translate(80.5 184.987)">
+          <rect id="trackBottom-6" data-name="trackBottom" width="80" height="4.291" transform="translate(117.5 99.592)" fill="#383838"/>
+          <rect id="trackTop-6" data-name="trackTop" width="80" height="4.291" transform="translate(197.5 58.174) rotate(180)" fill="#383838"/>
+        </g>
+      </g>
+      <g transform="translate(-198 386)">
+        <g id="trackVertical-13" data-name="trackVertical" transform="translate(202.948 214)" clip-path="url(#clip-path-2)">
+          <g id="trackVertical-14" data-name="trackVertical" transform="translate(-4.948 -16)">
+            <g id="Group_90-7" data-name="Group 90" transform="translate(4.948 16)">
+              <g id="Group_88-7" data-name="Group 88" transform="translate(0 0)">
+                <rect id="Rectangle_16-7" data-name="Rectangle 16" width="100" height="4.291" transform="translate(4.291) rotate(90)" fill="#383838"/>
+              </g>
+              <g id="Group_89-7" data-name="Group 89" transform="translate(65.709 0)">
+                <rect id="Rectangle_17-7" data-name="Rectangle 17" width="100" height="4.291" transform="translate(0 100) rotate(-90)" fill="#383838"/>
+              </g>
+            </g>
+          </g>
+        </g>
+        <g id="track-7" data-name="track" transform="translate(80.5 184.987)">
+          <rect id="trackBottom-7" data-name="trackBottom" width="80" height="4.291" transform="translate(117.5 99.592)" fill="#383838"/>
+          <rect id="trackTop-7" data-name="trackTop" width="80" height="4.291" transform="translate(197.5 58.174) rotate(180)" fill="#383838"/>
+        </g>
+      </g>
+    </g>
+    <g id="Repeat_Grid_2" data-name="Repeat Grid 2" transform="translate(520 414)" clip-path="url(#clip-path-9)">
+      <g transform="translate(-198 -214)">
+        <g id="trackVertical-15" data-name="trackVertical" transform="translate(202.948 214)" clip-path="url(#clip-path-2)">
+          <g id="trackVertical-16" data-name="trackVertical" transform="translate(-4.948 -16)">
+            <g id="Group_90-8" data-name="Group 90" transform="translate(4.948 16)">
+              <g id="Group_88-8" data-name="Group 88" transform="translate(0 0)">
+                <rect id="Rectangle_16-8" data-name="Rectangle 16" width="100" height="4.291" transform="translate(4.291) rotate(90)" fill="#383838"/>
+              </g>
+              <g id="Group_89-8" data-name="Group 89" transform="translate(65.709 0)">
+                <rect id="Rectangle_17-8" data-name="Rectangle 17" width="100" height="4.291" transform="translate(0 100) rotate(-90)" fill="#383838"/>
+              </g>
+            </g>
+          </g>
+        </g>
+        <g id="track-8" data-name="track" transform="translate(80.5 184.987)">
+          <rect id="trackBottom-8" data-name="trackBottom" width="80" height="4.291" transform="translate(117.5 99.592)" fill="#383838"/>
+          <rect id="trackTop-8" data-name="trackTop" width="80" height="4.291" transform="translate(197.5 58.174) rotate(180)" fill="#383838"/>
+        </g>
+      </g>
+      <g transform="translate(-198 -114)">
+        <g id="trackVertical-17" data-name="trackVertical" transform="translate(202.948 214)" clip-path="url(#clip-path-2)">
+          <g id="trackVertical-18" data-name="trackVertical" transform="translate(-4.948 -16)">
+            <g id="Group_90-9" data-name="Group 90" transform="translate(4.948 16)">
+              <g id="Group_88-9" data-name="Group 88" transform="translate(0 0)">
+                <rect id="Rectangle_16-9" data-name="Rectangle 16" width="100" height="4.291" transform="translate(4.291) rotate(90)" fill="#383838"/>
+              </g>
+              <g id="Group_89-9" data-name="Group 89" transform="translate(65.709 0)">
+                <rect id="Rectangle_17-9" data-name="Rectangle 17" width="100" height="4.291" transform="translate(0 100) rotate(-90)" fill="#383838"/>
+              </g>
+            </g>
+          </g>
+        </g>
+        <g id="track-9" data-name="track" transform="translate(80.5 184.987)">
+          <rect id="trackBottom-9" data-name="trackBottom" width="80" height="4.291" transform="translate(117.5 99.592)" fill="#383838"/>
+          <rect id="trackTop-9" data-name="trackTop" width="80" height="4.291" transform="translate(197.5 58.174) rotate(180)" fill="#383838"/>
+        </g>
+      </g>
+      <g transform="translate(-198 -14)">
+        <g id="trackVertical-19" data-name="trackVertical" transform="translate(202.948 214)" clip-path="url(#clip-path-2)">
+          <g id="trackVertical-20" data-name="trackVertical" transform="translate(-4.948 -16)">
+            <g id="Group_90-10" data-name="Group 90" transform="translate(4.948 16)">
+              <g id="Group_88-10" data-name="Group 88" transform="translate(0 0)">
+                <rect id="Rectangle_16-10" data-name="Rectangle 16" width="100" height="4.291" transform="translate(4.291) rotate(90)" fill="#383838"/>
+              </g>
+              <g id="Group_89-10" data-name="Group 89" transform="translate(65.709 0)">
+                <rect id="Rectangle_17-10" data-name="Rectangle 17" width="100" height="4.291" transform="translate(0 100) rotate(-90)" fill="#383838"/>
+              </g>
+            </g>
+          </g>
+        </g>
+        <g id="track-10" data-name="track" transform="translate(80.5 184.987)">
+          <rect id="trackBottom-10" data-name="trackBottom" width="80" height="4.291" transform="translate(117.5 99.592)" fill="#383838"/>
+          <rect id="trackTop-10" data-name="trackTop" width="80" height="4.291" transform="translate(197.5 58.174) rotate(180)" fill="#383838"/>
+        </g>
+      </g>
+      <g transform="translate(-198 86)">
+        <g id="trackVertical-21" data-name="trackVertical" transform="translate(202.948 214)" clip-path="url(#clip-path-2)">
+          <g id="trackVertical-22" data-name="trackVertical" transform="translate(-4.948 -16)">
+            <g id="Group_90-11" data-name="Group 90" transform="translate(4.948 16)">
+              <g id="Group_88-11" data-name="Group 88" transform="translate(0 0)">
+                <rect id="Rectangle_16-11" data-name="Rectangle 16" width="100" height="4.291" transform="translate(4.291) rotate(90)" fill="#383838"/>
+              </g>
+              <g id="Group_89-11" data-name="Group 89" transform="translate(65.709 0)">
+                <rect id="Rectangle_17-11" data-name="Rectangle 17" width="100" height="4.291" transform="translate(0 100) rotate(-90)" fill="#383838"/>
+              </g>
+            </g>
+          </g>
+        </g>
+        <g id="track-11" data-name="track" transform="translate(80.5 184.987)">
+          <rect id="trackBottom-11" data-name="trackBottom" width="80" height="4.291" transform="translate(117.5 99.592)" fill="#383838"/>
+          <rect id="trackTop-11" data-name="trackTop" width="80" height="4.291" transform="translate(197.5 58.174) rotate(180)" fill="#383838"/>
+        </g>
+      </g>
+      <g transform="translate(-198 186)">
+        <g id="trackVertical-23" data-name="trackVertical" transform="translate(202.948 214)" clip-path="url(#clip-path-2)">
+          <g id="trackVertical-24" data-name="trackVertical" transform="translate(-4.948 -16)">
+            <g id="Group_90-12" data-name="Group 90" transform="translate(4.948 16)">
+              <g id="Group_88-12" data-name="Group 88" transform="translate(0 0)">
+                <rect id="Rectangle_16-12" data-name="Rectangle 16" width="100" height="4.291" transform="translate(4.291) rotate(90)" fill="#383838"/>
+              </g>
+              <g id="Group_89-12" data-name="Group 89" transform="translate(65.709 0)">
+                <rect id="Rectangle_17-12" data-name="Rectangle 17" width="100" height="4.291" transform="translate(0 100) rotate(-90)" fill="#383838"/>
+              </g>
+            </g>
+          </g>
+        </g>
+        <g id="track-12" data-name="track" transform="translate(80.5 184.987)">
+          <rect id="trackBottom-12" data-name="trackBottom" width="80" height="4.291" transform="translate(117.5 99.592)" fill="#383838"/>
+          <rect id="trackTop-12" data-name="trackTop" width="80" height="4.291" transform="translate(197.5 58.174) rotate(180)" fill="#383838"/>
+        </g>
+      </g>
+    </g>
+    <g id="trackWBuffer" transform="translate(277.5 829.161)" clip-path="url(#clip-path-15)">
+      <g id="trackWBuffer-2" data-name="trackWBuffer" transform="translate(-117 -44.174)">
+        <rect id="trackBottom-13" data-name="trackBottom" width="80" height="4.291" transform="translate(117.5 99.592)" fill="#383838"/>
+        <rect id="trackTop-13" data-name="trackTop" width="80" height="4.291" transform="translate(197.5 58.174) rotate(180)" fill="#383838"/>
+        <path id="trackBufferTop" d="M0,0H80V2.5H0Z" transform="translate(197.5 54.174) rotate(180)" fill="#777"/>
+        <rect id="trackBufferBottom" width="80" height="2" stroke-width="1" fill="#777" stroke="rgba(0,0,0,0)" transform="translate(117.5 103.592)"/>
+        <rect id="trackOuterBottom" width="80" height="8" transform="translate(197.5 113.174) rotate(180)" fill="#bbb7b7"/>
+        <rect id="trackOuterTop" width="80" height="8" transform="translate(197.5 52.174) rotate(180)" fill="#bbb7b7"/>
+      </g>
+      <g id="trackWBuffer-3" data-name="trackWBuffer" transform="translate(-36 -44.174)">
+        <rect id="trackBottom-14" data-name="trackBottom" width="80" height="4.291" transform="translate(117.5 99.592)" fill="#383838"/>
+        <rect id="trackTop-14" data-name="trackTop" width="80" height="4.291" transform="translate(197.5 58.174) rotate(180)" fill="#383838"/>
+        <path id="trackBufferTop-2" data-name="trackBufferTop" d="M0,0H80V2.5H0Z" transform="translate(197.5 54.174) rotate(180)" fill="#777"/>
+        <rect id="trackBufferBottom-2" data-name="trackBufferBottom" width="80" height="2" transform="translate(117.5 103.592)" fill="#777" stroke="rgba(0,0,0,0)" stroke-width="1"/>
+        <rect id="trackOuterBottom-2" data-name="trackOuterBottom" width="80" height="8" transform="translate(197.5 113.174) rotate(180)" fill="#bbb7b7"/>
+        <rect id="trackOuterTop-2" data-name="trackOuterTop" width="80" height="8" transform="translate(197.5 52.174) rotate(180)" fill="#bbb7b7"/>
+      </g>
+      <g id="trackWBuffer-4" data-name="trackWBuffer" transform="translate(45 -44.174)">
+        <rect id="trackBottom-15" data-name="trackBottom" width="80" height="4.291" transform="translate(117.5 99.592)" fill="#383838"/>
+        <rect id="trackTop-15" data-name="trackTop" width="80" height="4.291" transform="translate(197.5 58.174) rotate(180)" fill="#383838"/>
+        <path id="trackBufferTop-3" data-name="trackBufferTop" d="M0,0H80V2.5H0Z" transform="translate(197.5 54.174) rotate(180)" fill="#777"/>
+        <rect id="trackBufferBottom-3" data-name="trackBufferBottom" width="80" height="2" transform="translate(117.5 103.592)" fill="#777" stroke="rgba(0,0,0,0)" stroke-width="1"/>
+        <rect id="trackOuterBottom-3" data-name="trackOuterBottom" width="80" height="8" transform="translate(197.5 113.174) rotate(180)" fill="#bbb7b7"/>
+        <rect id="trackOuterTop-3" data-name="trackOuterTop" width="80" height="8" transform="translate(197.5 52.174) rotate(180)" fill="#bbb7b7"/>
+      </g>
+    </g>
+    <g id="trackWBuffer-5" data-name="trackWBuffer" transform="translate(277.5 729.161)" clip-path="url(#clip-path-15)">
+      <g id="trackWBuffer-6" data-name="trackWBuffer" transform="translate(-117 -44.174)">
+        <rect id="trackBottom-16" data-name="trackBottom" width="80" height="4.291" transform="translate(117.5 99.592)" fill="#383838"/>
+        <rect id="trackTop-16" data-name="trackTop" width="80" height="4.291" transform="translate(197.5 58.174) rotate(180)" fill="#383838"/>
+        <path id="trackBufferTop-4" data-name="trackBufferTop" d="M0,0H80V2.5H0Z" transform="translate(197.5 54.174) rotate(180)" fill="#777"/>
+        <rect id="trackBufferBottom-4" data-name="trackBufferBottom" width="80" height="2" transform="translate(117.5 103.592)" fill="#777" stroke="rgba(0,0,0,0)" stroke-width="1"/>
+        <rect id="trackOuterBottom-4" data-name="trackOuterBottom" width="80" height="8" transform="translate(197.5 113.174) rotate(180)" fill="#bbb7b7"/>
+        <rect id="trackOuterTop-4" data-name="trackOuterTop" width="80" height="8" transform="translate(197.5 52.174) rotate(180)" fill="#bbb7b7"/>
+      </g>
+      <g id="trackWBuffer-7" data-name="trackWBuffer" transform="translate(-36 -44.174)">
+        <rect id="trackBottom-17" data-name="trackBottom" width="80" height="4.291" transform="translate(117.5 99.592)" fill="#383838"/>
+        <rect id="trackTop-17" data-name="trackTop" width="80" height="4.291" transform="translate(197.5 58.174) rotate(180)" fill="#383838"/>
+        <path id="trackBufferTop-5" data-name="trackBufferTop" d="M0,0H80V2.5H0Z" transform="translate(197.5 54.174) rotate(180)" fill="#777"/>
+        <rect id="trackBufferBottom-5" data-name="trackBufferBottom" width="80" height="2" transform="translate(117.5 103.592)" fill="#777" stroke="rgba(0,0,0,0)" stroke-width="1"/>
+        <rect id="trackOuterBottom-5" data-name="trackOuterBottom" width="80" height="8" transform="translate(197.5 113.174) rotate(180)" fill="#bbb7b7"/>
+        <rect id="trackOuterTop-5" data-name="trackOuterTop" width="80" height="8" transform="translate(197.5 52.174) rotate(180)" fill="#bbb7b7"/>
+      </g>
+      <g id="trackWBuffer-8" data-name="trackWBuffer" transform="translate(45 -44.174)">
+        <rect id="trackBottom-18" data-name="trackBottom" width="80" height="4.291" transform="translate(117.5 99.592)" fill="#383838"/>
+        <rect id="trackTop-18" data-name="trackTop" width="80" height="4.291" transform="translate(197.5 58.174) rotate(180)" fill="#383838"/>
+        <path id="trackBufferTop-6" data-name="trackBufferTop" d="M0,0H80V2.5H0Z" transform="translate(197.5 54.174) rotate(180)" fill="#777"/>
+        <rect id="trackBufferBottom-6" data-name="trackBufferBottom" width="80" height="2" transform="translate(117.5 103.592)" fill="#777" stroke="rgba(0,0,0,0)" stroke-width="1"/>
+        <rect id="trackOuterBottom-6" data-name="trackOuterBottom" width="80" height="8" transform="translate(197.5 113.174) rotate(180)" fill="#bbb7b7"/>
+        <rect id="trackOuterTop-6" data-name="trackOuterTop" width="80" height="8" transform="translate(197.5 52.174) rotate(180)" fill="#bbb7b7"/>
+      </g>
+    </g>
+    <g id="trackWBuffer-9" data-name="trackWBuffer" transform="translate(277.5 629.161)" clip-path="url(#clip-path-15)">
+      <g id="trackWBuffer-10" data-name="trackWBuffer" transform="translate(-117 -44.174)">
+        <rect id="trackBottom-19" data-name="trackBottom" width="80" height="4.291" transform="translate(117.5 99.592)" fill="#383838"/>
+        <rect id="trackTop-19" data-name="trackTop" width="80" height="4.291" transform="translate(197.5 58.174) rotate(180)" fill="#383838"/>
+        <path id="trackBufferTop-7" data-name="trackBufferTop" d="M0,0H80V2.5H0Z" transform="translate(197.5 54.174) rotate(180)" fill="#777"/>
+        <rect id="trackBufferBottom-7" data-name="trackBufferBottom" width="80" height="2" transform="translate(117.5 103.592)" fill="#777" stroke="rgba(0,0,0,0)" stroke-width="1"/>
+        <rect id="trackOuterBottom-7" data-name="trackOuterBottom" width="80" height="8" transform="translate(197.5 113.174) rotate(180)" fill="#bbb7b7"/>
+        <rect id="trackOuterTop-7" data-name="trackOuterTop" width="80" height="8" transform="translate(197.5 52.174) rotate(180)" fill="#bbb7b7"/>
+      </g>
+      <g id="trackWBuffer-11" data-name="trackWBuffer" transform="translate(-36 -44.174)">
+        <rect id="trackBottom-20" data-name="trackBottom" width="80" height="4.291" transform="translate(117.5 99.592)" fill="#383838"/>
+        <rect id="trackTop-20" data-name="trackTop" width="80" height="4.291" transform="translate(197.5 58.174) rotate(180)" fill="#383838"/>
+        <path id="trackBufferTop-8" data-name="trackBufferTop" d="M0,0H80V2.5H0Z" transform="translate(197.5 54.174) rotate(180)" fill="#777"/>
+        <rect id="trackBufferBottom-8" data-name="trackBufferBottom" width="80" height="2" transform="translate(117.5 103.592)" fill="#777" stroke="rgba(0,0,0,0)" stroke-width="1"/>
+        <rect id="trackOuterBottom-8" data-name="trackOuterBottom" width="80" height="8" transform="translate(197.5 113.174) rotate(180)" fill="#bbb7b7"/>
+        <rect id="trackOuterTop-8" data-name="trackOuterTop" width="80" height="8" transform="translate(197.5 52.174) rotate(180)" fill="#bbb7b7"/>
+      </g>
+      <g id="trackWBuffer-12" data-name="trackWBuffer" transform="translate(45 -44.174)">
+        <rect id="trackBottom-21" data-name="trackBottom" width="80" height="4.291" transform="translate(117.5 99.592)" fill="#383838"/>
+        <rect id="trackTop-21" data-name="trackTop" width="80" height="4.291" transform="translate(197.5 58.174) rotate(180)" fill="#383838"/>
+        <path id="trackBufferTop-9" data-name="trackBufferTop" d="M0,0H80V2.5H0Z" transform="translate(197.5 54.174) rotate(180)" fill="#777"/>
+        <rect id="trackBufferBottom-9" data-name="trackBufferBottom" width="80" height="2" transform="translate(117.5 103.592)" fill="#777" stroke="rgba(0,0,0,0)" stroke-width="1"/>
+        <rect id="trackOuterBottom-9" data-name="trackOuterBottom" width="80" height="8" transform="translate(197.5 113.174) rotate(180)" fill="#bbb7b7"/>
+        <rect id="trackOuterTop-9" data-name="trackOuterTop" width="80" height="8" transform="translate(197.5 52.174) rotate(180)" fill="#bbb7b7"/>
+      </g>
+    </g>
+    <g id="mole" transform="translate(80.5 105.461)">
+      <path id="moleEdges" d="M193.635,184.223l-1.725-1.438a3.2,3.2,0,0,0-2.047-.759h-65.45a3.25,3.25,0,0,0-2.412,1.11l-1,1.113a4.015,4.015,0,0,0-1,2.68v40.193a4.01,4.01,0,0,0,1,2.68l1,1.113a3.246,3.246,0,0,0,2.412,1.11h65.45a3.194,3.194,0,0,0,2.047-.758l1.725-1.438A3.949,3.949,0,0,0,195,226.8V187.255A3.946,3.946,0,0,0,193.635,184.223Z" transform="translate(0 0)" fill="#528ea0"/>
+      <rect id="moleBody" width="58.142" height="50" transform="translate(127.945 182.026)" fill="url(#linear-gradient)"/>
+    </g>
+    <g id="mole-2" data-name="mole" transform="translate(402.5 656.461)">
+      <path id="moleEdges-2" data-name="moleEdges" d="M193.635,184.223l-1.725-1.438a3.2,3.2,0,0,0-2.047-.759h-65.45a3.25,3.25,0,0,0-2.412,1.11l-1,1.113a4.015,4.015,0,0,0-1,2.68v40.193a4.01,4.01,0,0,0,1,2.68l1,1.113a3.246,3.246,0,0,0,2.412,1.11h65.45a3.194,3.194,0,0,0,2.047-.758l1.725-1.438A3.949,3.949,0,0,0,195,226.8V187.255A3.946,3.946,0,0,0,193.635,184.223Z" transform="translate(0 0)" fill="#528ea0"/>
+      <rect id="moleBody-2" data-name="moleBody" width="58.142" height="50" transform="translate(127.945 182.026)" fill="url(#linear-gradient)"/>
+    </g>
+    <g id="pallet" transform="translate(245.5 287.16)">
+      <rect id="Rectangle_68" data-name="Rectangle 68" width="7.325" height="61.07" rx="0.821" transform="translate(126.911 446.328)" fill="#a67c52"/>
+      <rect id="Rectangle_69" data-name="Rectangle 69" width="7.325" height="61.07" rx="0.821" transform="translate(137.488 446.328)" fill="#a67c52"/>
+      <rect id="Rectangle_70" data-name="Rectangle 70" width="7.325" height="61.07" rx="0.821" transform="translate(148.065 446.328)" fill="#a67c52"/>
+      <rect id="Rectangle_71" data-name="Rectangle 71" width="7.325" height="61.07" rx="0.821" transform="translate(158.642 446.328)" fill="#a67c52"/>
+      <rect id="Rectangle_72" data-name="Rectangle 72" width="7.325" height="61.07" rx="0.821" transform="translate(169.218 446.328)" fill="#a67c52"/>
+      <rect id="Rectangle_73" data-name="Rectangle 73" width="7.325" height="61.07" rx="0.821" transform="translate(179.795 446.328)" fill="#a67c52"/>
+    </g>
+    <g id="pallet-2" data-name="pallet" transform="translate(326.5 287.16)">
+      <rect id="Rectangle_68-2" data-name="Rectangle 68" width="7.325" height="61.07" rx="0.821" transform="translate(126.911 446.328)" fill="#a67c52"/>
+      <rect id="Rectangle_69-2" data-name="Rectangle 69" width="7.325" height="61.07" rx="0.821" transform="translate(137.488 446.328)" fill="#a67c52"/>
+      <rect id="Rectangle_70-2" data-name="Rectangle 70" width="7.325" height="61.07" rx="0.821" transform="translate(148.065 446.328)" fill="#a67c52"/>
+      <rect id="Rectangle_71-2" data-name="Rectangle 71" width="7.325" height="61.07" rx="0.821" transform="translate(158.642 446.328)" fill="#a67c52"/>
+      <rect id="Rectangle_72-2" data-name="Rectangle 72" width="7.325" height="61.07" rx="0.821" transform="translate(169.218 446.328)" fill="#a67c52"/>
+      <rect id="Rectangle_73-2" data-name="Rectangle 73" width="7.325" height="61.07" rx="0.821" transform="translate(179.795 446.328)" fill="#a67c52"/>
+    </g>
+    <g id="pallet-3" data-name="pallet" transform="translate(81.5 -163.84)">
+      <rect id="Rectangle_68-3" data-name="Rectangle 68" width="7.325" height="61.07" rx="0.821" transform="translate(126.911 446.328)" fill="#a67c52"/>
+      <rect id="Rectangle_69-3" data-name="Rectangle 69" width="7.325" height="61.07" rx="0.821" transform="translate(137.488 446.328)" fill="#a67c52"/>
+      <rect id="Rectangle_70-3" data-name="Rectangle 70" width="7.325" height="61.07" rx="0.821" transform="translate(148.065 446.328)" fill="#a67c52"/>
+      <rect id="Rectangle_71-3" data-name="Rectangle 71" width="7.325" height="61.07" rx="0.821" transform="translate(158.642 446.328)" fill="#a67c52"/>
+      <rect id="Rectangle_72-3" data-name="Rectangle 72" width="7.325" height="61.07" rx="0.821" transform="translate(169.218 446.328)" fill="#a67c52"/>
+      <rect id="Rectangle_73-3" data-name="Rectangle 73" width="7.325" height="61.07" rx="0.821" transform="translate(179.795 446.328)" fill="#a67c52"/>
+    </g>
+    <g id="pallet-4" data-name="pallet" transform="translate(161.5 383.16)">
+      <rect id="Rectangle_68-4" data-name="Rectangle 68" width="7.325" height="61.07" rx="0.821" transform="translate(126.911 446.328)" fill="#a67c52"/>
+      <rect id="Rectangle_69-4" data-name="Rectangle 69" width="7.325" height="61.07" rx="0.821" transform="translate(137.488 446.328)" fill="#a67c52"/>
+      <rect id="Rectangle_70-4" data-name="Rectangle 70" width="7.325" height="61.07" rx="0.821" transform="translate(148.065 446.328)" fill="#a67c52"/>
+      <rect id="Rectangle_71-4" data-name="Rectangle 71" width="7.325" height="61.07" rx="0.821" transform="translate(158.642 446.328)" fill="#a67c52"/>
+      <rect id="Rectangle_72-4" data-name="Rectangle 72" width="7.325" height="61.07" rx="0.821" transform="translate(169.218 446.328)" fill="#a67c52"/>
+      <rect id="Rectangle_73-4" data-name="Rectangle 73" width="7.325" height="61.07" rx="0.821" transform="translate(179.795 446.328)" fill="#a67c52"/>
+    </g>
+    <g id="pallet-5" data-name="pallet" transform="translate(242.5 387.16)">
+      <rect id="Rectangle_68-5" data-name="Rectangle 68" width="7.325" height="61.07" rx="0.821" transform="translate(126.911 446.328)" fill="#a67c52"/>
+      <rect id="Rectangle_69-5" data-name="Rectangle 69" width="7.325" height="61.07" rx="0.821" transform="translate(137.488 446.328)" fill="#a67c52"/>
+      <rect id="Rectangle_70-5" data-name="Rectangle 70" width="7.325" height="61.07" rx="0.821" transform="translate(148.065 446.328)" fill="#a67c52"/>
+      <rect id="Rectangle_71-5" data-name="Rectangle 71" width="7.325" height="61.07" rx="0.821" transform="translate(158.642 446.328)" fill="#a67c52"/>
+      <rect id="Rectangle_72-5" data-name="Rectangle 72" width="7.325" height="61.07" rx="0.821" transform="translate(169.218 446.328)" fill="#a67c52"/>
+      <rect id="Rectangle_73-5" data-name="Rectangle 73" width="7.325" height="61.07" rx="0.821" transform="translate(179.795 446.328)" fill="#a67c52"/>
+    </g>
+    <g id="pallet-6" data-name="pallet" transform="translate(323.5 387.16)">
+      <rect id="Rectangle_68-6" data-name="Rectangle 68" width="7.325" height="61.07" rx="0.821" transform="translate(126.911 446.328)" fill="#a67c52"/>
+      <rect id="Rectangle_69-6" data-name="Rectangle 69" width="7.325" height="61.07" rx="0.821" transform="translate(137.488 446.328)" fill="#a67c52"/>
+      <rect id="Rectangle_70-6" data-name="Rectangle 70" width="7.325" height="61.07" rx="0.821" transform="translate(148.065 446.328)" fill="#a67c52"/>
+      <rect id="Rectangle_71-6" data-name="Rectangle 71" width="7.325" height="61.07" rx="0.821" transform="translate(158.642 446.328)" fill="#a67c52"/>
+      <rect id="Rectangle_72-6" data-name="Rectangle 72" width="7.325" height="61.07" rx="0.821" transform="translate(169.218 446.328)" fill="#a67c52"/>
+      <rect id="Rectangle_73-6" data-name="Rectangle 73" width="7.325" height="61.07" rx="0.821" transform="translate(179.795 446.328)" fill="#a67c52"/>
+    </g>
+    <g id="Lift" transform="translate(319 372)">
+      <g id="track-13" data-name="track" transform="translate(-117.5 12.987)">
+        <rect id="trackBottom-22" data-name="trackBottom" width="160" height="4.291" transform="translate(117.5 99.592)" fill="#383838"/>
+        <rect id="trackTop-22" data-name="trackTop" width="160" height="4.291" transform="translate(277.5 58.174) rotate(180)" fill="#383838"/>
+      </g>
+      <g id="track-14" data-name="track" transform="translate(183.883 -105.63) rotate(90)">
+        <rect id="trackBottom-23" data-name="trackBottom" width="160" height="4.291" transform="translate(117.5 149.592)" fill="#383838"/>
+        <rect id="trackTop-23" data-name="trackTop" width="160" height="4.291" transform="translate(277.5 58.174) rotate(180)" fill="#383838"/>
+      </g>
+      <rect id="Rectangle_176" data-name="Rectangle 176" width="160" height="24" fill="#777"/>
+      <rect id="Rectangle_177" data-name="Rectangle 177" width="160" height="24" transform="translate(0 160)" fill="#777"/>
+      <rect id="Rectangle_178" data-name="Rectangle 178" width="100" height="6" transform="translate(30 24)" fill="#6d76e8"/>
+      <g id="Rectangle_180" data-name="Rectangle 180" transform="translate(34 103)" fill="#777" stroke="#707070" stroke-width="1">
+        <rect width="59" height="22" rx="8" stroke="none"/>
+        <rect x="0.5" y="0.5" width="58" height="21" rx="7.5" fill="none"/>
+      </g>
+      <g id="Rectangle_181" data-name="Rectangle 181" transform="translate(40 103)" fill="#2e2e2e" stroke="#707070" stroke-width="1">
+        <rect width="29" height="22" rx="8" stroke="none"/>
+        <rect x="0.5" y="0.5" width="28" height="21" rx="7.5" fill="none"/>
+      </g>
+      <rect id="Rectangle_182" data-name="Rectangle 182" width="100" height="6" transform="translate(30 154)" fill="#6d76e8"/>
+      <rect id="Rectangle_183" data-name="Rectangle 183" width="136" height="7" transform="translate(30 24) rotate(90)" fill="#6d76e8"/>
+      <rect id="Rectangle_184" data-name="Rectangle 184" width="136" height="7" transform="translate(137 24) rotate(90)" fill="#6d76e8"/>
+    </g>
+    <g id="track-15" data-name="track" transform="translate(161.5 384.987)">
+      <rect id="trackBottom-24" data-name="trackBottom" width="40" height="4.291" transform="translate(117.5 99.592)" fill="#383838"/>
+      <rect id="trackTop-24" data-name="trackTop" width="40" height="4.291" transform="translate(157.5 58.174) rotate(180)" fill="#383838"/>
+    </g>
+    <g id="track-16" data-name="track" transform="translate(361.5 384.987)">
+      <rect id="trackBottom-25" data-name="trackBottom" width="40" height="4.291" transform="translate(117.5 99.592)" fill="#383838"/>
+      <rect id="trackTop-25" data-name="trackTop" width="40" height="4.291" transform="translate(157.5 58.174) rotate(180)" fill="#383838"/>
+    </g>
+    <g id="molePalletSelected" transform="translate(520 400)">
+      <path id="Path_18" data-name="Path 18" d="M76.14,39.48l-1.73-1.29a3.41,3.41,0,0,0-2-.68H6.91a3.41,3.41,0,0,0-2.41,1l-1,1a3.41,3.41,0,0,0-1,2.41V78.09a3.41,3.41,0,0,0,1,2.41l1,1a3.41,3.41,0,0,0,2.41,1H72.36a3.41,3.41,0,0,0,2-.68l1.73-1.29a3.41,3.41,0,0,0,1.36-2.73V42.21a3.41,3.41,0,0,0-1.31-2.73Z" transform="translate(0 0.01)" fill="#528ea0"/>
+      <rect id="Rectangle_143" data-name="Rectangle 143" width="58.14" height="45" transform="translate(10.44 37.51)" fill="url(#linear-gradient-3)"/>
+      <rect id="Rectangle_144" data-name="Rectangle 144" width="7.32" height="61.07" rx="0.82" transform="translate(70.54 29.9) rotate(90)" fill="#725439"/>
+      <rect id="Rectangle_145" data-name="Rectangle 145" width="7.32" height="61.07" rx="0.82" transform="translate(70.53 56.35) rotate(90)" fill="#725439"/>
+      <rect id="Rectangle_146" data-name="Rectangle 146" width="7.32" height="61.07" rx="0.82" transform="translate(70.53 82.79) rotate(90)" fill="#725439"/>
+      <rect id="Rectangle_147" data-name="Rectangle 147" width="7.32" height="61.07" rx="0.82" transform="translate(9.9 29.47)" fill="#a67c52"/>
+      <rect id="Rectangle_148" data-name="Rectangle 148" width="7.32" height="61.07" rx="0.82" transform="translate(20.47 29.47)" fill="#a67c52"/>
+      <rect id="Rectangle_149" data-name="Rectangle 149" width="7.32" height="61.07" rx="0.82" transform="translate(31.05 29.47)" fill="#a67c52"/>
+      <rect id="Rectangle_150" data-name="Rectangle 150" width="7.32" height="61.07" rx="0.82" transform="translate(41.63 29.47)" fill="#a67c52"/>
+      <rect id="Rectangle_151" data-name="Rectangle 151" width="7.32" height="61.07" rx="0.82" transform="translate(52.2 29.47)" fill="#a67c52"/>
+      <rect id="Rectangle_152" data-name="Rectangle 152" width="7.32" height="61.07" rx="0.82" transform="translate(62.78 29.47)" fill="#a67c52"/>
+      <rect id="Rectangle_153" data-name="Rectangle 153" width="60" height="3.75" transform="translate(41.87 0.01) rotate(90)" fill="#3c6"/>
+      <rect id="Rectangle_154" data-name="Rectangle 154" width="60" height="3.75" transform="translate(41.87 60.01) rotate(90)" fill="#3c6"/>
+      <rect id="Rectangle_155" data-name="Rectangle 155" width="40" height="3.75" transform="translate(40 58.13)" fill="#3c6"/>
+      <rect id="Rectangle_156" data-name="Rectangle 156" width="40" height="3.75" transform="translate(0 58.13)" fill="#3c6"/>
+      <circle id="Ellipse_14" data-name="Ellipse 14" cx="14.56" cy="14.56" r="14.56" transform="translate(25.44 45.45)" fill="#3f6"/>
+      <path id="Path_19" data-name="Path 19" d="M56.29,69.24,42.53,41a2.81,2.81,0,0,0-5.05,0L23.71,69.24a2.81,2.81,0,0,0,2.53,4H53.76a2.81,2.81,0,0,0,2.53-4Z" transform="translate(0 0.01)" fill="#f93"/>
+      <ellipse id="Ellipse_15" data-name="Ellipse 15" cx="1.28" cy="6.9" rx="1.28" ry="6.9" transform="translate(38.72 49.44)" fill="#383838"/>
+      <circle id="Ellipse_16" data-name="Ellipse 16" cx="1.59" cy="1.59" r="1.59" transform="translate(38.41 65.33)" fill="#383838"/>
+    </g>
+  </g>
+</svg>

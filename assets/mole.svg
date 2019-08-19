@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="75" height="50" viewBox="0 0 75 50">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #528ea0;
+      }
+
+      .cls-2 {
+        fill: url(#linear-gradient);
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="0.207" y1="1.155" x2="0.793" y2="-0.155" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#f2f2f2"/>
+      <stop offset="0.516" stop-color="#b3b3b3"/>
+      <stop offset="1" stop-color="#f2f2f2"/>
+    </linearGradient>
+  </defs>
+  <g id="mole" transform="translate(-120 -182.026)">
+    <path id="moleEdges" class="cls-1" d="M193.635,184.223l-1.725-1.438a3.2,3.2,0,0,0-2.047-.759h-65.45a3.25,3.25,0,0,0-2.412,1.11l-1,1.113a4.015,4.015,0,0,0-1,2.68v40.193a4.01,4.01,0,0,0,1,2.68l1,1.113a3.246,3.246,0,0,0,2.412,1.11h65.45a3.194,3.194,0,0,0,2.047-.758l1.725-1.438A3.949,3.949,0,0,0,195,226.8V187.255A3.946,3.946,0,0,0,193.635,184.223Z" transform="translate(0 0)"/>
+    <rect id="moleBody" class="cls-2" width="58.142" height="50" transform="translate(127.945 182.026)"/>
+  </g>
+</svg>

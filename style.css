@@ -1,0 +1,153 @@
+body {
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  -webkit-user-select: none;
+     -moz-user-select: none;
+      -ms-user-select: none;
+          user-select: none;
+}
+
+header {
+  top: 0;
+  width: 100vw;
+  background: #e6e6e6;
+  height: 10vh;
+  /* Style The Dropdown Button */
+  /* The container <div> - needed to position the dropdown content */
+  /* Dropdown Content (Hidden by Default) */
+  /* Links inside the dropdown */
+  /* Change color of dropdown links on hover */
+  /* Show the dropdown menu on hover */
+  /* Change the background color of the dropdown button when the dropdown content is shown */
+}
+
+header .userImg {
+  height: 60px;
+  width: auto;
+  float: right;
+  margin: 1vh 5vh;
+  background-size: cover;
+  background-position: center;
+  padding: 1px;
+}
+
+header h1 {
+  margin: 20px 20px;
+}
+
+header .dropbtn {
+  background-color: #4CAF50;
+  color: white;
+  padding: 10px 32px;
+  font-size: 16px;
+  border: none;
+  cursor: pointer;
+  margin: 15px 20px;
+  border-radius: 20px;
+}
+
+header .dropbtn a {
+  color: white;
+}
+
+header .dropdown {
+  position: relative;
+  display: inline-block;
+}
+
+header .dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: #f9f9f9;
+  min-width: 160px;
+  -webkit-box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
+          box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
+  z-index: 1;
+}
+
+header .dropdown-content a {
+  color: black;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+}
+
+header .dropdown-content a:hover {
+  background-color: #f1f1f1;
+}
+
+header .dropdown:hover .dropdown-content {
+  display: block;
+}
+
+header .dropdown:hover .dropbtn {
+  background-color: #3e8e41;
+}
+
+section {
+  overflow-y: scroll;
+  top: 10vh;
+  width: 100vw;
+  height: 80vh;
+}
+
+footer {
+  bottom: 0;
+  width: 100vw;
+  height: 10vh;
+  line-height: 10vh;
+  position: absolute;
+}
+
+footer i {
+  -webkit-transform: scale(2);
+          transform: scale(2);
+  margin: 20px 40px;
+  -webkit-transition: 0.2s ease;
+  transition: 0.2s ease;
+  color: #404040;
+}
+
+footer i:hover {
+  cursor: pointer;
+  color: limegreen;
+  -webkit-transform: scale(2.4);
+          transform: scale(2.4);
+}
+
+footer .slider {
+  -webkit-appearance: none;
+  width: 12vw;
+  height: 5px;
+  background: #d3d3d3;
+  border-radius: 20px;
+  outline: none;
+  opacity: 0.7;
+  -webkit-transition: .2s;
+  -webkit-transition: opacity .2s;
+  transition: opacity .2s;
+}
+
+footer .slider:hover {
+  opacity: 1;
+}
+
+footer .slider::-webkit-slider-thumb {
+  -webkit-appearance: none;
+  appearance: none;
+  width: 15px;
+  height: 15px;
+  border-radius: 50%;
+  background: limegreen;
+  cursor: pointer;
+}
+
+footer .slider::-moz-range-thumb {
+  width: 15px;
+  height: 15px;
+  border-radius: 50%;
+  background: limegreen;
+  cursor: pointer;
+}
+/*# sourceMappingURL=style.css.map */

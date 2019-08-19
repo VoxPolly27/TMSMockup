@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="70" height="100" viewBox="0 0 70 100">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #383838;
+      }
+    </style>
+  </defs>
+  <g id="trackVertical" transform="translate(-4.948 -16)">
+    <rect id="trackBottom" class="cls-1" width="100" height="4.291" transform="translate(9.239 16) rotate(90)"/>
+    <rect id="trackLeft" class="cls-1" width="100" height="4.291" transform="translate(70.657 116) rotate(-90)"/>
+  </g>
+</svg>
