@@ -426,10 +426,10 @@
       <rect id="Rectangle_154" data-name="Rectangle 154" width="60" height="3.75" transform="translate(41.87 60.01) rotate(90)" fill="#3c6"/>
       <rect id="Rectangle_155" data-name="Rectangle 155" width="40" height="3.75" transform="translate(40 58.13)" fill="#3c6"/>
       <rect id="Rectangle_156" data-name="Rectangle 156" width="40" height="3.75" transform="translate(0 58.13)" fill="#3c6"/>
-      <circle id="Ellipse_14" data-name="Ellipse 14" cx="14.56" cy="14.56" r="14.56" transform="translate(25.44 45.45)" fill="#3f6"/>
-      <path id="Path_19" data-name="Path 19" d="M56.29,69.24,42.53,41a2.81,2.81,0,0,0-5.05,0L23.71,69.24a2.81,2.81,0,0,0,2.53,4H53.76a2.81,2.81,0,0,0,2.53-4Z" transform="translate(0 0.01)" fill="#f93"/>
-      <ellipse id="Ellipse_15" data-name="Ellipse 15" cx="1.28" cy="6.9" rx="1.28" ry="6.9" transform="translate(38.72 49.44)" fill="#383838"/>
-      <circle id="Ellipse_16" data-name="Ellipse 16" cx="1.59" cy="1.59" r="1.59" transform="translate(38.41 65.33)" fill="#383838"/>
+      <circle id="Ellipse_14" data-name="Ellipse 14" cx="14.56" cy="14.56" r="14.56" transform="matrix(-0.017, -1, 1, -0.017, 26.704, 74.761)" fill="#3f6"/>
+      <path id="Path_19" data-name="Path 19" d="M56.29,69.24,50.68,57.727,42.53,41a2.81,2.81,0,0,0-5.05,0L23.71,69.24a2.81,2.81,0,0,0,2.53,4H53.76a2.81,2.81,0,0,0,2.53-4Z" transform="matrix(-0.017, -1, 1, -0.017, -18.285, 100.99)" fill="#f93"/>
+      <ellipse id="Ellipse_15" data-name="Ellipse 15" cx="1.28" cy="6.9" rx="1.28" ry="6.9" transform="matrix(-0.017, -1, 1, -0.017, 30.462, 61.413)" fill="#383838"/>
+      <circle id="Ellipse_16" data-name="Ellipse 16" cx="1.59" cy="1.59" r="1.59" transform="matrix(-0.017, -1, 1, -0.017, 46.355, 61.446)" fill="#383838"/>
     </g>
   </g>
 </svg>

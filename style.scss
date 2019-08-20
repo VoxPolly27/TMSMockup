@@ -12,6 +12,7 @@ header{
     width: 100vw;
     background: lighten(black, 90);
     height: 10vh;
+    // line-height: 10vh;
     .userImg{
         height: 60px;
         width: auto;
@@ -28,6 +29,16 @@ header{
         margin: 20px 20px;
     }
 
+    .menu{
+        font-size: 3em;
+        line-height: 10vh;
+        margin: 0 5vw;
+        transition: 0.3s ease;
+        &:hover{
+            color: #4CAF50;
+            cursor: pointer;
+        }
+    }
     /* Style The Dropdown Button */
     .dropbtn {
         background-color: #4CAF50;
@@ -36,10 +47,11 @@ header{
         font-size: 16px;
         border: none;
         cursor: pointer;
-        margin: 15px 20px;
+        margin: 2vh 20px;
         border-radius: 20px;
         a{
             color:white;
+            cursor: pointer;
         }
     }
 
@@ -90,6 +102,10 @@ section{
     width: 100vw;
     // background: lightgreen;
     height: 80vh;
+
+    #molePalletSelected{
+        cursor: pointer;
+    }
 }
 
 footer{
@@ -99,6 +115,7 @@ footer{
     // background: lightslategrey;
     line-height: 10vh;
     position: absolute;
+    // display: inline;
     i{  
         transform: scale(2);
         margin: 20px 40px;

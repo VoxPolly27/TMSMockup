@@ -2,20 +2,20 @@
 <html lang="en">
 
 <head>
-    <!-- Required meta tags -->
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    
-    <!-- Bootstrap CSS -->
-    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"
-      integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
-    <link rel="stylesheet" href="./node_modules/animejs/lib/anime.min.js">
-    <!-- Font Awesome Css -->
-    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
-    <link rel="stylesheet" href="./style.css">
-    <script src="./node_modules/@iconfu/svg-inject/dist/svg-inject.js"></script>
-    <!-- <script src="https://unpkg.com/swup@latest/dist/swup.min.js"></script> -->
-  
+  <!-- Required meta tags -->
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+  <!-- Bootstrap CSS -->
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"
+    integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+  <link rel="stylesheet" href="./node_modules/animejs/lib/anime.min.js">
+  <!-- Font Awesome Css -->
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+  <link rel="stylesheet" href="./style.css">
+  <script src="./node_modules/@iconfu/svg-inject/dist/svg-inject.js"></script>
+  <!-- <script src="https://unpkg.com/swup@latest/dist/swup.min.js"></script> -->
+
 
   <title>TMS</title>
 </head>
@@ -31,17 +31,25 @@
         <a href="./level3.html">Level 3</a>
       </div>
     </div>
+    <div class="dropdown">
+      <button class="dropbtn"><a>Configuration</a></button>
+      <div class="dropdown-content">
+        <a href="#">Automatic</a>
+        <a href="#">Manual</a>
+      </div>
+    </div>
   </header>
   <section>
-      <h1>Prototype</h1>
+    <h1>Prototype</h1>
   </section>
   <footer>
-    <div class='col-12 row'>
+    <div class='d-none d-lg-flex col-md-12 md-row'>
       <div class='col-6'>
         <i class="fa fa-bars"></i>
         <i class="fa fa-bug"></i>
         <i class="fa fa-search"></i>
         <i class="fa fa-stop-circle"></i>
+        <i class="fa fa-plus"></i>
         <i class="fa fa-repeat"></i>
       </div>
       <div class='col-6 text-right'>
@@ -50,7 +58,11 @@
         <i class="fa fa-arrows"></i>
       </div>
     </div>
+    <div class='d-col-12 text-center d-lg-none'>
+      <i class="fa fa-bars"></i>
+    </div>
   </footer>
+
 
   <!-- Optional JavaScript -->
   <!-- jQuery first, then Popper.js, then Bootstrap JS -->

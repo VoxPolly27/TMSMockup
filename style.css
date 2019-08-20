@@ -36,6 +36,19 @@ header h1 {
   margin: 20px 20px;
 }
 
+header .menu {
+  font-size: 3em;
+  line-height: 10vh;
+  margin: 0 5vw;
+  -webkit-transition: 0.3s ease;
+  transition: 0.3s ease;
+}
+
+header .menu:hover {
+  color: #4CAF50;
+  cursor: pointer;
+}
+
 header .dropbtn {
   background-color: #4CAF50;
   color: white;
@@ -43,12 +56,13 @@ header .dropbtn {
   font-size: 16px;
   border: none;
   cursor: pointer;
-  margin: 15px 20px;
+  margin: 2vh 20px;
   border-radius: 20px;
 }
 
 header .dropbtn a {
   color: white;
+  cursor: pointer;
 }
 
 header .dropdown {
@@ -90,6 +104,10 @@ section {
   top: 10vh;
   width: 100vw;
   height: 80vh;
+}
+
+section #molePalletSelected {
+  cursor: pointer;
 }
 
 footer {
