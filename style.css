@@ -50,18 +50,28 @@ header .menu:hover {
 }
 
 header .dropbtn {
-  background-color: #4CAF50;
-  color: white;
+  color: #4CAF50;
+  border: 2px #4CAF50 solid;
   padding: 10px 32px;
   font-size: 16px;
-  border: none;
   cursor: pointer;
   margin: 2vh 20px;
   border-radius: 20px;
+  -webkit-transition: 0.4s ease;
+  transition: 0.4s ease;
+}
+
+header .dropbtn:hover {
+  border-color: #3e8e41;
+  color: whitesmoke;
+}
+
+header .dropbtn:hover > a {
+  color: whitesmoke;
 }
 
 header .dropbtn a {
-  color: white;
+  color: #4CAF50;
   cursor: pointer;
 }
 
@@ -97,6 +107,10 @@ header .dropdown:hover .dropdown-content {
 
 header .dropdown:hover .dropbtn {
   background-color: #3e8e41;
+}
+
+header .dropdown:hover .dropbtn a {
+  color: white;
 }
 
 section {
